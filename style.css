@@ -1,0 +1,1077 @@
+.div1{
+   width: 100%;
+   background-color: rgba(28, 78, 228, 0.843);
+   overflow: hidden;
+   
+   position: absolute;
+   top: 0px;
+   left: 0px;
+   right: 0px;
+   
+}
+
+.facebook{
+    width: 20px;
+    margin: 8px 0px 0px 45px;
+    position: relative;
+    top: 6px;
+
+}
+
+.twitter{
+    width: 18px;
+    margin: 8px 0px 0px 15px;
+    position: relative;
+    top: 5px
+   
+}
+
+.insta{
+    width: 20px;
+    margin: 8px 0px 0px 15px;
+    position: relative;
+    top: 5px
+
+}
+
+
+.youtube{
+    width: 20px;
+    margin: 8px 0px 0px 15px;
+    position: relative;
+    top: 5px;
+   
+
+}
+   
+ 
+
+.whatsapp{
+    width: 20px;
+    margin: 8px 0px 0px 15px;
+    position: relative;
+    top: 5px;
+}
+
+
+.donation{
+    display: inline-block;
+    position: relative;
+    left: 55px;
+    color: rgb(245, 245, 245);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#don{
+    position: relative;
+    bottom: 12px;
+    color: rgb(245, 245, 245);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.uk{
+    position: absolute;
+    right: 150px;
+    top: 10px;
+    padding: 6px;
+    border-radius: 1px;
+    border-color: rgba(168, 236, 79, 0.233);
+    color: rgba(0, 70, 0, 0.795);
+}
+
+
+.now{
+    position: absolute;
+    right: 60px;
+    top: 10px;
+    padding: 5px;
+    border-color: rgba(168, 236, 79, 0.233);
+    color: rgba(0, 70, 0, 0.795);
+}
+
+.smit{
+    position: absolute;
+    right: 130px;
+    top: 44px;
+    padding: 5px;
+    border-color: rgba(168, 236, 79, 0.233);
+    color: rgba(0, 70, 0, 0.795);
+}
+ 
+ .fixed{
+     
+   width: 100%;
+    background-color;
+    position: absolute;
+    top: 84px;
+    right: 0px ;
+    z-index: 1;
+
+    
+    
+} 
+
+/* 
+.fixed {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed; 
+    top: 0; 
+    width: 100%; 
+  } */
+ .logo{
+   
+    width: 180px;
+   position: relative;
+   top: 10px;
+   left: 50px;
+} 
+
+
+.home{
+    text-transform: capitalize;
+    margin: 0px 0px 0px 0px;
+    border-radius: 15px;
+    padding: 8px ;
+    border-style: hidden;
+    position: relative;
+   left: 100px;
+   bottom: 20px;
+   width: 60px;
+   font-family: 'Nunito Sans';
+   letter-spacing: 1px;
+   
+}
+.home:hover{
+    background-color: rgba(28, 78, 228, 0.966);
+   color:  rgb(245, 245, 245);
+}
+
+
+.about{
+    text-transform: capitalize;
+    margin: 0px 0px 0px 0px;
+    border-radius: 15px;
+    padding: 8px ;
+    border-style: hidden;
+    position: relative;
+   left: 100px;
+   bottom: 20px;
+   width: 70px;
+   font-family: 'Nunito Sans';
+   letter-spacing: 1px;
+   
+}
+.about:hover{
+    background-color: rgba(28, 78, 228, 0.966);
+   color:  rgb(245, 245, 245);
+}
+
+.service{
+    text-transform: capitalize;
+    margin: 0px 0px 0px 0px;
+    border-radius: 15px;
+    padding: 8px ;
+    border-style: hidden;
+    position: relative;
+   left: 100px;
+   bottom: 20px;
+   width: 130px;
+   font-family: 'Nunito Sans';
+   letter-spacing: 1px;
+   
+}
+.service:hover{
+    background-color: rgba(28, 78, 228, 0.966);
+   color:  rgb(245, 245, 245);
+}
+
+.future{
+    text-transform: capitalize;
+    margin: 0px 0px 0px 0px;
+    border-radius: 15px;
+    padding: 8px ;
+    border-style: hidden;
+    position: relative;
+   left: 100px;
+   bottom:20px;
+   width: 120px;
+   font-family: 'Nunito Sans';
+   letter-spacing: 1px;
+   
+}
+.future:hover{
+    background-color: rgba(28, 78, 228, 0.966);
+   color:  rgb(245, 245, 245);
+}
+
+.media{
+    text-transform: capitalize;
+    margin: 0px 0px 0px 0px;
+    border-radius: 15px;
+    padding: 8px ;
+    border-style: hidden;
+    position: relative;
+   left: 100px;
+   bottom:20px;
+   width: 70px;
+   font-family: 'Nunito Sans';
+   letter-spacing: 1px;
+   
+}
+.media:hover{
+    background-color: rgba(28, 78, 228, 0.966);
+   color:  rgb(245, 245, 245);
+}
+
+.news{
+    text-transform: capitalize;
+    margin: 0px 0px 0px 0px;
+    border-radius: 15px;
+    padding: 8px ;
+    border-style: hidden;
+    position: relative;
+   left: 100px;
+   bottom:20px;
+   width: 60px;
+   font-family: 'Nunito Sans';
+   letter-spacing: 1px;
+   
+}
+.news:hover{
+    background-color: rgba(28, 78, 228, 0.966);
+   color:  rgb(245, 245, 245);
+}
+
+
+.donate{
+    text-transform: capitalize;
+   margin: 0px;
+    border-radius: 15px;
+    padding: 8px ;
+    border-style: hidden;
+    position: relative;
+   left: 100px;
+   top:px;
+   bottom: 20px;
+   width: 80px;
+   font-family: 'Nunito Sans';
+   letter-spacing: 1px;
+   
+}
+.donate:hover{
+    background-color: rgba(28, 78, 228, 0.966);
+   color:  rgb(245, 245, 245);
+}
+
+.donat{
+    position: absolute;
+    top:186px;
+    left: 0px;
+    
+}
+
+.new{
+   
+    width: 70%;
+    text-align: center;
+    background-color: royalblue;
+}
+
+.intro{
+    
+     position: absolute;
+    top: 610px;
+    right: 38%;
+    width: 240px;
+    
+}
+.establish{
+    position: absolute;
+    top: 700px;
+    right: 10%;
+    left: 10%;
+    font-family:  serif;
+    word-spacing: 5px;
+    color: rgba(0, 0, 0, 0.684);
+   
+
+}
+
+.blue{
+    width: 100%;
+    height:690px;
+    display: inline-block;
+    background-color:rgba(19, 73, 233, 0.911);
+   
+    position: absolute;
+    top: 72em;
+    right: 0px;
+    left: 0px;
+
+}
+
+.daily{
+    display: inline-block;
+    z-index: 1;
+    font-size: 60px;
+    font-style: italic;
+    color: white;
+    padding-top: 10%;
+    padding-left: 15%;
+   
+}
+.dastar{
+    text-transform: capitalize;
+    display: inline-block;
+    z-index: 1;
+    font-size: 25px;
+    font-style: italic;
+    color: white;
+    padding-top: 100px;
+    padding-left: 15%;
+    position: relative;
+    top: 50px;
+    right: 390px;
+
+}
+.one{
+    text-transform: capitalize;
+    display: inline-block;
+    z-index: 1;
+    font-size: 25px;
+    font-style: italic;
+    color: white;
+    padding-top: 100px;
+    padding-left: 15%;
+    position: relative;
+    top: 50px;
+    right: 530px;
+    color: rgba(5, 255, 38, 0.973);
+}
+
+
+.family{
+    display: inline-block;
+    z-index: 1;
+    font-size: 60px;
+    font-style: italic;
+    color: white;
+    padding-top: 10%;
+    padding-left: 25%;
+    position: relative;
+    bottom: 160px;
+    left: 45%;
+   
+}
+
+.adopt{
+    text-transform: capitalize;
+    display: inline-block;
+    z-index: 1;
+    font-size: 25px;
+    font-style: italic;
+    color: white;
+    padding-top: 10%;
+    padding-left: 0%;
+    position: relative;
+    bottom: 115px;
+    left: 22%;
+   
+}
+
+.two{
+    text-transform: capitalize;
+    display: inline-block;
+    z-index: 1;
+    font-size: 25px;
+    font-style: italic;
+    color: white;
+    padding-top: 10%;
+    padding-left: 0%;
+    position: relative;
+    bottom: 115px;
+    left: 22%;
+    color: rgba(5, 255, 38, 0.973);
+   
+}
+
+
+.medical{
+    display: inline-block;
+    z-index: 1;
+    font-size: 60px;
+    font-style: italic;
+    color: white;
+    padding-top: 5%;
+    padding-left: 15%;
+   
+}
+
+.medic{
+    text-transform: capitalize;
+    display: inline-block;
+    z-index: 1;
+    font-size: 25px;
+    font-style: italic;
+    color: white;
+    padding-top: 100px;
+    padding-left: 15%;
+    position: relative;
+    top: 50px;
+    right: 320px;
+
+}
+
+.three{
+    text-transform: capitalize;
+    display: inline-block;
+    z-index: 1;
+    font-size: 25px;
+    font-style: italic;
+    color: white;
+    padding-top: 100px;
+    padding-left: 15%;
+    position: relative;
+    top: 50px;
+    right: 460px;
+    color: rgba(5, 255, 38, 0.973);
+
+}
+
+.education{
+    display: inline-block;
+    z-index: 1;
+    font-size: 60px;
+    font-style: italic;
+    color: white;
+    padding-top: 10%;
+    padding-left: 25%;
+    position: relative;
+    bottom: 160px;
+    left: 40%;
+   
+}
+
+.edu{
+    text-transform: capitalize;
+    display: inline-block;
+    z-index: 1;
+    font-size: 25px;
+    font-style: italic;
+    color: white;
+    padding-top: 100px;
+    padding-left: 15%;
+    position: relative;
+    bottom: 110px;
+    left: 20px;
+
+}
+
+.four{
+    text-transform: capitalize;
+    display: inline-block;
+    z-index: 1;
+    font-size: 25px;
+    font-style: italic;
+    color: white;
+    padding-top: 100px;
+    padding-left: 15%;
+    position: relative;
+    bottom: 110px;
+    right: 110px;
+    color: rgba(5, 255, 38, 0.973);
+}
+
+.iconfood{
+    position: relative;
+    left: 255px;
+    top: 105px;
+}
+.iconfamily{
+    position: relative;
+    left: 655px;
+    top: 105px;
+}
+
+.iconedu{
+    position: relative;
+    left: 530px;
+    top: 405px;
+}
+.iconmedical{
+    position: relative;
+    left: 100px;
+    top: 405px;
+}
+
+.cover{
+    width: 100%;
+}
+.doing{
+     width: 100%;
+     height: 900px;
+     overflow: hidden;
+     display: inline-block;
+     background-color: white;
+    position: absolute;
+    top: 1841px;
+    right: 0px;
+    left: 0px;
+    text-align: center;
+    
+}
+
+.neela{
+    position: relative;
+    left:  260px;
+    top: 50px;
+    font-size: 40px;
+    text-transform: uppercase;
+    color: blue;
+  
+   
+}
+
+.green{
+   
+    position: relative;
+    left: 270px;
+    top: 50px;
+    font-size: 40px;
+    text-transform: uppercase;
+    color: green;
+  
+}
+
+.online{
+    width: 340px;
+    height: 180px;
+    display: inline-block;
+   float: left;
+   position: relative;
+   left: 120px;
+   top: 100px;
+    box-shadow: 0 0  13px gray;
+    color: rgb(0, 108, 255) ;
+    background-color:white;
+    font-weight: bold;
+   
+
+}
+.sadqah{
+    font-size: 25px;
+    text-transform: uppercase;
+    position: relative;
+    top: 40%;
+}
+
+.imgsadqah{
+    width: 80px;
+    position: relative;
+    bottom: 73px;
+}
+.imgwelfare{
+    width: 80px;
+    position: relative;
+    bottom: 73px;
+}
+.imgmedical{
+    width: 80px;
+    position: relative;
+    bottom: 73px;
+}
+.imgdastrkhwn{
+    width: 80px;
+    position: relative;
+    bottom: 73px;
+}
+.imgroplant{
+    width: 80px;
+    position: relative;
+    bottom: 73px;
+}
+.imgedu{
+    width: 80px;
+    position: relative;
+    bottom: 73px;
+}
+
+
+
+.walfare{
+    width: 340px;
+    height: 180px;
+    display: inline-block;
+  float: right;
+   position: relative;
+  right: 130px ;
+   top: 100px;
+   box-shadow: 0 0  13px gray;
+   color: rgb(0, 108, 255) ;
+   background-color:white;
+   font-weight: bold;
+    
+    
+
+}
+
+.walf{
+    font-size: 25px;
+    text-transform: uppercase;
+    position: relative;
+    top: 40%;
+}
+
+.medcal{
+    width: 340px;
+    height: 180px;
+    display: inline-block;
+   float: left;
+   position: relative;
+   left: 120px;
+   top: 130px;
+   box-shadow: 0 0  13px gray;
+   color: rgb(0, 108, 255) ;
+   background-color:white;
+   font-weight: bold;
+    
+    
+
+}
+
+
+.medi{
+    font-size: 25px;
+    text-transform: uppercase;
+    position: relative;
+    top: 40%;
+}
+
+.dastrkhwn{
+    width: 340px;
+    height: 180px;
+    display: inline-block;
+  float: right;
+   position: relative;
+  right: 130px ;
+   top: 130px;
+   box-shadow: 0 0  13px gray;
+   color: rgb(0, 108, 255) ;
+   background-color:white;
+   font-weight: bold;
+    
+   
+
+}
+
+.khwn{
+    font-size: 25px;
+    text-transform: uppercase;
+    position: relative;
+    top: 40%;
+}
+
+
+.plant{
+    width: 340px;
+    height: 180px;
+    display: inline-block;
+   float: left;
+   position: relative;
+   left: 120px;
+   top: 160px;
+   box-shadow: 0 0  13px gray;
+   color: rgb(0, 108, 255) ;
+   background-color:white;
+   font-weight: bold;
+    
+   
+
+}
+
+
+.ro{
+    font-size: 25px;
+    text-transform: uppercase;
+    position: relative;
+    top: 40%;
+}
+
+
+
+.educate{
+    width: 340px;
+    height: 180px;
+    display: inline-block;
+  float: right;
+   position: relative;
+  right: 130px ;
+   top: 160px;
+   box-shadow: 0 0  13px gray;
+   color: rgb(0, 108, 255) ;
+   background-color:white;
+   font-weight: bold;
+    
+   
+
+}
+
+.ed{
+    font-size: 25px;
+    text-transform: uppercase;
+    position: relative;
+    top: 40%;
+}
+.upcom{
+    overflow: hidden;
+    position: absolute;
+    top: 2741px;
+    right: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background-color:;
+
+}
+.pro{
+     text-transform: uppercase;
+     font-size:28px;
+     position: relative;
+     left: 115px;
+     
+     font-family: fantasy;
+     word-spacing: 2px;
+     color: rgb(0, 108, 255) ;
+}
+li{
+    display: inline-block;
+    
+}
+.hep{
+    border: 1px solid whitesmoke;
+    box-shadow: ;
+    overflow: hidden;
+    border-radius: 5px;
+    background-color: rgb(245, 245, 245);
+    display: inline-block;
+    width: 350px;
+    height: 70px;
+    position: relative;
+    left: 115px;
+    top: 20px;
+    box-shadow: 0 0  12px  gray;
+}
+.red{
+    width: 30px;
+    position: relative;
+    right: 30px;
+    top: 5px;
+
+
+}
+
+.hepatitis{text-transform: uppercase;
+        color: rgb(0, 108, 255) ;
+        font-family: serif;
+        font-weight: bold;
+        position: relative;
+        bottom: 5px;
+        right: 15px;
+
+}
+.house{
+    border: 1px solid whitesmoke;
+    box-shadow: ;
+    overflow: hidden;
+    border-radius: 5px;
+    background-color: rgb(245, 245, 245);
+    display: inline-block;
+    width: 350px;
+    height: 70px;
+    position: relative;
+    left: 130px;
+    top: 20px;
+    box-shadow: 0 0  12px  gray;
+}
+
+.soc{
+    width: 30px;
+    position: relative;
+    right: 30px;
+    top: 5px;
+
+
+}
+
+.socp{text-transform: uppercase;
+        color: rgb(0, 108, 255) ;
+        font-family: serif;
+        font-weight: bold;
+        position: relative;
+        bottom: 5px;
+        right: 15px;
+
+}
+
+.it{
+    border: 1px solid whitesmoke;
+    box-shadow: ;
+    overflow: hidden;
+    border-radius: 5px;
+    background-color: rgb(245, 245, 245);
+    display: inline-block;
+    width: 350px;
+    height: 70px;
+    position: relative;
+    left: 115px;
+    top: 30px;
+    box-shadow: 0 0  12px  gray;
+}
+.lit{
+    width: 30px;
+    position: relative;
+    right: 30px;
+    top: 5px;
+
+
+}
+
+.racy{text-transform: uppercase;
+        color: rgb(0, 108, 255) ;
+        font-family: serif;
+        font-weight: bold;
+        position: relative;
+        bottom: 5px;
+        right: 15px;
+
+}
+
+.thar{
+    border: 1px solid whitesmoke;
+    box-shadow: ;
+    overflow: hidden;
+    border-radius: 5px;
+    background-color:rgb(245, 245, 245);
+    display: inline-block;
+    width: 350px;
+    height: 70px;
+    position: relative;
+    left: 130px;
+    top: 30px;
+    box-shadow: 0 0  12px  gray;
+    
+}
+
+.par{
+    width: 30px;
+    position: relative;
+    right: 30px;
+    top: 5px;
+
+
+}
+
+.kar{text-transform: uppercase;
+        color: rgb(0, 108, 255) ;
+        font-family: serif;
+        font-weight: bold;
+        position: relative;
+        bottom: 5px;
+        right: 15px;
+
+}
+
+.events{
+    overflow: ;
+    width: 450px;
+    height: 100px;
+    background-color:;
+    position: absolute;
+    top: 3030px;
+    
+    
+}
+.eventhead{
+    text-transform: uppercase;
+    font-size:28px;
+      position: relative;
+    left: 105px;  
+    
+    font-family: fantasy;
+    word-spacing: 2px;
+    color: rgb(0, 108, 255) ;
+}
+
+.cntr{
+    overflow: ;
+    width: 300px;
+    height: 290px;
+    background-color:;
+    position: absolute;
+    top: 3130px;
+    left: 60px;
+    text-align: center;
+    
+    
+}
+
+.mainhead{
+    overflow: ;
+    width: 300px;
+    height: 120px;
+   
+    position: absolute;
+    top: 3530px;
+    left: 330px;
+    text-align: center;
+    text-transform: uppercase;
+        color: rgb(0, 108, 255) ;
+        font-family: serif;
+        font-weight: bold;
+    
+    
+}
+
+.mainhead,h1{
+    display: inline-block;
+}
+
+#gree{
+    color: green;
+}
+
+#favicon{
+    position: relative;
+    bottom: 15px;
+    right: 10px;
+    width: 50px;
+}
+
+.box{
+    overflow: ;
+    width: 100%;
+    height: 250px;
+    
+    position: absolute;
+    top: 3670px;
+    right: 0px;
+    display: inline-block;
+    
+    
+       
+      
+    
+    
+}
+
+#first{
+    margin-left: 12.5%;
+    width: 25%;
+    height: 140px;
+    
+    display: inline-block;
+}
+#second{
+    width:25% ;
+    height: 140px;
+   
+    display: inline-block;
+}
+
+#third{
+    width:25% ;
+    height: 140px;
+   
+    display: inline-block;
+}
+
+.rashan{
+    width: 100%;
+}
+
+
+.contactus{
+    width: 100%;
+    height: 360px;
+    background-color: rgba(0, 0, 0, 0.884);
+    position: absolute;
+    left: 0px;
+    top: 4000px;
+
+}
+
+.address{
+    width: 200px;
+    height: 350px;
+    color:white;
+    position: relative;
+    left: 50px;
+    text-align: center;
+    display: inline-block;
+    
+}
+#add {
+    display: inline-block;
+    padding-top:10px ;
+    margin-bottom: 50px;
+    text-transform: capitalize;
+    font-size: 20px;
+    
+    
+}
+.useful{
+    width: 300px;
+    height: 100px;
+    font-size: 10px;
+    color:white;
+    position: relative;
+    left: 140px;
+    bottom: 250px;
+    text-align: center;
+    display: inline-block;
+    text-transform: capitalize;
+}
+
+.social{
+    width: 300px;
+    height: 100px;
+    font-size: 10px;
+    background-color:;
+    color: white;
+    position: relative;
+    left: 140px;
+    bottom: 220px;
+    text-align: center;
+    display: inline-block;
+    text-transform: capitalize;
+}
+.social img{
+    width: 20px;
+   position: relative;
+   top: 50px;
+   right: 140px;
+   padding: 5px;
+}
+
+.copy{
+    display: inline-block;
+    background-color: rgb(0, 108, 255)  ;
+    width: 100%;
+    height: 45px;
+    z-index: 1;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    margin-top: 360px;
+
+    
+    
+}
+
+#right{
+    color: white;
+   padding-left: 80px;
+}
+
